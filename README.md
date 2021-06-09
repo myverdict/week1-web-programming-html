@@ -11,5 +11,5 @@
 
 <p>Jungle Photo by Ana Briard on Unsplash</p>
 
-<a href="https://myverdict.github.io/week1-web-programming-html/">
+<a href="https://myverdict.github.io/week1-web-programming-html/index.html">
     Click here to view live!</a>  
