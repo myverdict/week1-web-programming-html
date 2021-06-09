@@ -6,7 +6,7 @@
 <ul>
   <li>HTML text with simple markup</li>
   <li>HTML text with no markup</li>
-  <li>HTML Basics</li>
+  <li>HTML Basics: Hello page</li>
 </ul>
 
 <p>Jungle Photo by Ana Briard on Unsplash</p>
