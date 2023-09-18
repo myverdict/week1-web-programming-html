@@ -16,16 +16,16 @@
   Click here to view live!
 </a>
 
-<hr />
+<hr>
 
 <p>
   <i>
     ITEC 2560-60: Web Client and Server Programming
-    <br />
+    <br>
     Minneapolis Community and Technical College (MCTC), Minneapolis, Minnesota
-    <br />
+    <br>
     Prof. Clara James, Fall 2020
-    <br />
+    <br>
     August 25, 2020 to December 15, 2020 (Tuesdays)
   </i>
 </p>
