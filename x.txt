@@ -1,0 +1,8 @@
+https://www.google.com/search?q=Harvard&source=hp&ei=YzPGYMSNFsmWsQWTvJrICg&iflsig=AINFCbYAAAAAYMZBc5pl1kUjPXQTD6MzdPeq-TFLKh76&oq=Harvard&gs_lcp=Cgdnd3Mtd2l6EAMyCAguELEDEJMCMgUIABCxAzIFCAAQsQMyBQguELEDMgUIABCxAzILCC4QsQMQxwEQowIyBQguELEDMgUILhCxAzIFCC4QsQMyAggAOhEILhCxAxCDARDHARCjAhCTAjoICAAQsQMQgwE6DgguELEDEIMBEMcBEKMCOgIILjoICC4QxwEQrwE6BQgAEMkDOgUIABCSAzoICC4QsQMQgwFQ0ypY1jVgjzloAXAAeACAAWeIAbAEkgEDNi4xmAEAoAEBqgEHZ3dzLXdperABAA&sclient=gws-wiz&ved=0ahUKEwiEy_vshJXxAhVJS6wKHROeBqkQ4dUDCAk&uact=5
+
+https://www.google.com/search?q=Harvard
+
+Everything after search? is a query string
+
+The action attribute in the form tag tells the browser that when the form is submitted, the data should
+be sent to the link provided as a value to the action field. 
